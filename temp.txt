@@ -1,0 +1,7 @@
+apple
+even
+nest
+tiger
+river
+render
+rol
